@@ -1,0 +1,41 @@
+
+### 🔧 Replit Prompt:
+
+> **Project Title:** `Minhaj Portfolio - Developer & Creative Showcase`
+>
+> **Build a responsive and interactive personal portfolio website** using **HTML, Tailwind CSS, and JavaScript (optionally React)** that highlights my multifaceted identity as:
+>
+> * 🎓 Undergraduate student majoring in **Applied Mathematics**
+> * 📊 Aspiring **Data Scientist** with experience in **data analysis, statistics**, and **machine learning**
+> * 🎨 Skilled **Graphic Designer** and **Web Developer** with a strong command of UI/UX
+> * 💬 Active **Debater**, **Organizer**, and **Campus Leader**
+> * 🧠 Problem Solver passionate about innovation and tech for social good
+>
+> ### 🎯 Key Sections to Include:
+>
+> 1. **Hero Section** – With a short intro tagline like *"Hi, I’m Minhaj — Turning Equations, Code, and Creativity into Impact."*
+> 2. **About Me** – Academic background, teaching experience, and club leadership roles
+> 3. **Skills** – Categorized (Data Science, Web Dev, Graphic Design, Soft Skills)
+> 4. **Projects** – Showcasing data science, design, and full-stack projects
+> 5. **Experience** – Teaching, organizing, and leadership roles
+> 6. **Certifications** – Online courses, trainings, achievements
+> 7. **Contact Form** – With social links (LinkedIn, GitHub, etc.)
+> 8. (Optional) **Blog Section** – For articles on data science, debates, or tech tutorials
+>
+> ### 🧠 Bonus Features (if using React or JS):
+>
+> * Dark/Light mode toggle
+> * Downloadable résumé button
+> * Scroll animations or transitions (Framer Motion / AOS)
+> * Project filtering (e.g., Data, Design, Web)
+>
+> ### 🔋 Tools & Tech Stack:
+>
+> * **Frontend:** HTML + Tailwind CSS (or React with Tailwind)
+> * **Hosting:** Deploy via Replit, GitHub Pages, or Netlify
+>
+> ### 🔑 Goal:
+>
+> Create a fast, modern, and elegant website that reflects both technical expertise and creative flair—suitable for internship/job applications, networking, and public visibility as a multi-talented student and professional-in-the-making.
+
+
