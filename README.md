@@ -107,15 +107,31 @@ Navigate to `http://localhost:5000`
 
 ## 🚀 Deployment
 
-### Replit Deployment
+### Quick Deployment Options
+
+**Option 1: Replit Deployment (Recommended)**
 1. Click the "Deploy" button in Replit
 2. Follow the deployment wizard
 3. Your portfolio will be live at `https://your-repl-name.your-username.replit.app`
 
+**Option 2: Vercel (Free)**
+1. Connect your GitHub repository to Vercel
+2. Set environment variables: `DATABASE_URL`
+3. Deploy automatically on every push
+
+**Option 3: Netlify (Free)**
+1. Connect your GitHub repository to Netlify
+2. Build command: `npm run build`
+3. Publish directory: `dist/public`
+
 ### Manual Deployment
 1. Build the project: `npm run build`
-2. Deploy the `dist` folder to your hosting provider
-3. Set up environment variables on your hosting platform
+2. Upload `dist` folder to your hosting provider
+3. Set up environment variables: `DATABASE_URL`
+
+### Environment Variables Required
+- `DATABASE_URL`: PostgreSQL connection string
+- `NODE_ENV`: Set to "production" for production deployments
 
 ## 📧 Contact
 
