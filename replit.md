@@ -53,8 +53,8 @@ This is a full-stack personal portfolio website built for Minhaj, showcasing his
 
 ### Storage Layer
 - **Interface**: IStorage abstraction for data operations
-- **Implementation**: MemStorage for development (in-memory storage)
-- **Production Ready**: Configured for PostgreSQL with Drizzle ORM
+- **Implementation**: DatabaseStorage with PostgreSQL integration
+- **Database**: PostgreSQL with Drizzle ORM for persistent data storage
 
 ## Data Flow
 
