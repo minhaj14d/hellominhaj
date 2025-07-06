@@ -42,6 +42,7 @@ jobs:
         run: npm run build
         env:
           NODE_ENV: production
+          VITE_BASE_URL: /hellominhaj/
           
       - name: Prepare deployment files
         run: |
